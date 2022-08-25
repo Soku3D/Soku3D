@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=green&height=230&section=header&text=Hi&fontSize=40&animation=twinkling )
+![header](https://capsule-render.vercel.app/api?type=waving&color=#008d62 &height=230&section=header&text=Hi&fontSize=40fontAlignY=36&animation=twinkling )
 
 <!--
 **Soku3D/Soku3D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
