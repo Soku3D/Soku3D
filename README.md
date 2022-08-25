@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## 🏆 Cards
+
+[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=soku)](https://solved.ac/soku)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soku3D)](https://github.com/Soku3D)
