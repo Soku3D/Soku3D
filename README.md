@@ -3,7 +3,7 @@
 ## 🏆 
 ![hyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=radical)
 
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=doogeje)](https://solved.ac/doogeje/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soku)](https://solved.ac/soku/)
 
 
 
