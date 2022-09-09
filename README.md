@@ -8,7 +8,7 @@
 ## 
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=appveyor&logo=C&logoColor=white">
 
-<img src="https://img.shields.io/badge/JAVA-0E1128?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=UnrealEngine&logoColor=white">
 
-<img src="https://img.shields.io/badge/Spring-0E1128?style=for-the-badge&logo=Spring&logoColor=white">
+<img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Unreal Engine&logoColor=white">
 
