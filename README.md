@@ -3,8 +3,8 @@
 ## 🏆 
 
 <div align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoku3D">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soku3D&theme=flat&row=3&column=3"></a><br>
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoku3D"><br>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soku3D&theme=flat&row=3&column=3"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku3D&layout=compact">
   <!--<a href="https://codeforces.com/profile/Soku3D"><img src="http://cf.leed.at/?id=Soku3D"></a><br>-->
   <picture>
