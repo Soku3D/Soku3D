@@ -17,10 +17,9 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=Gradient" />
-</picture>
+</picture><a href="https://solved.ac/profile/soku3d"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=soku3d"></a><br>
 </div>
 
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soku3d)](https://solved.ac/soku3d/)
 
 ## 💻
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
