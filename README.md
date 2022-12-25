@@ -5,7 +5,7 @@
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoku3D"><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soku3D&theme=flat&row=3&column=3"></a><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku3D&layout=compact"><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku3D&layout=compact">
   <!--<a href="https://codeforces.com/profile/Soku3D"><img src="http://cf.leed.at/?id=Soku3D"></a><br>-->
   <picture>
 <source 
@@ -19,6 +19,7 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=Gradient" />
 </picture>
 </div>
+
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soku3d)](https://solved.ac/soku3d/)
 
 ## 💻
