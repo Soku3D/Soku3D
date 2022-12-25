@@ -13,7 +13,17 @@
   <!--<a href="https://codeforces.com/profile/Soku3D"><img src="http://cf.leed.at/?id=Soku3D"></a><br>-->
 </div>
   
-  
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?Soku3D=anuraghazra&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?Soku3D=anuraghazra&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?Soku3D=anuraghazra&show_icons=true" />
+</picture>
 
 ## 💻
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
