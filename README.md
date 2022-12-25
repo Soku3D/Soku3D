@@ -8,12 +8,10 @@
 
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoku3D"><br>
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soku3D&theme=flat&row=3&column=3"></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soku3D&theme=flat&row=3&column=3"></a><br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku3D&layout=compact"><br>
   <!--<a href="https://codeforces.com/profile/Soku3D"><img src="http://cf.leed.at/?id=Soku3D"></a><br>-->
-  
-</div>
-<picture align="center">
+  <picture>
 <source 
   srcset="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=Gradient"
   media="(prefers-color-scheme: dark)"
@@ -24,6 +22,8 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true" />
 </picture>
+</div>
+
 
 ## 💻
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
