@@ -2,10 +2,6 @@
 
 ## 🏆 
 
-  ![hyeong's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=radical)
-  
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soku3d)](https://solved.ac/soku3d/)
-
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoku3D"><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soku3D&theme=flat&row=3&column=3"></a><br>
@@ -17,13 +13,13 @@
   media="(prefers-color-scheme: dark)"
 />
 <source
-  srcset="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true"
+  srcset="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=Gradient"
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=Gradient" />
 </picture>
 </div>
-
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soku3d)](https://solved.ac/soku3d/)
 
 ## 💻
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
