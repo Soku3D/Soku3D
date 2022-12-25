@@ -13,9 +13,9 @@
   <!--<a href="https://codeforces.com/profile/Soku3D"><img src="http://cf.leed.at/?id=Soku3D"></a><br>-->
   
 </div>
-<picture>
+<picture align="center">
 <source 
-  srcset="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=dark"
+  srcset="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=Gradient"
   media="(prefers-color-scheme: dark)"
 />
 <source
