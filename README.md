@@ -10,9 +10,9 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soku3D&theme=flat&row=3&column=3"></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku3D&layout=compact"><br>
   <!--<a href="https://codeforces.com/profile/Soku3D"><img src="http://cf.leed.at/?id=Soku3D"></a><br>-->
-  <img src="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=radical><br>
 </div>
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soku3d)](https://solved.ac/soku3d/)
+  
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=soku3d)](https://solved.ac/soku3d/)
 
 ## 💻
 - <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C++&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white">
