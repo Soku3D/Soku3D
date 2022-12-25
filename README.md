@@ -11,9 +11,7 @@
 - <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white"> <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=PyTorch&logoColor=white"> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=TensorFlow&logoColor=white"> <img src="https://img.shields.io/badge/NumPy-013243?style=flat&logo=NumPy&logoColor=white">
 - <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=flat&logo=Unreal Engine&logoColor=white"> <img src="https://img.shields.io/badge/Unity-FFFFFF?style=flat&logo=Unity&logoColor=black"> 
 
-<h2> cards </h2>
-
-<div align="center">
+<div align="left">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoku3D"><br>
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Soku3D&theme=flat&row=3&column=3"></a>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soku3D&layout=compact"><br>-->
