@@ -17,7 +17,7 @@
   media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=Gradient" />
-</picture><a href="https://solved.ac/profile/soku3d"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sonhyeongwon"></a><br>
+</picture><a href="https://solved.ac/profile/sonhyeongwon"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sonhyeongwon"></a><br>
 </div>
 
 
