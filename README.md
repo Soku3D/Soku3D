@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&&color=0:008d62,100:EEFF00&height=230&section=header&text=Hi&fontSize=40&fontAlignY=36)
 
-## 🏆 
+\\<!--[## 🏆 
 
 <div align="center">
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSoku3D"><br>
@@ -18,7 +18,7 @@
 />
 <img src="https://github-readme-stats.vercel.app/api?username=Soku3D&show_icons=true&theme=Gradient" />
 </picture><a href="https://solved.ac/profile/sonhyeongwon"><img src="https://github-readme-solvedac-hyp3rflow.vercel.app/api/?handle=sonhyeongwon"></a><br>
-</div>
+</div>](url)-->
 
 
 ## 💻
