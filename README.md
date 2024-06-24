@@ -7,5 +7,3 @@
 
 
 <a href="https://opgc.me/#/users/soku3d" target="_blank"><img src="https://api.opgc.me/githubs/users/soku3d/tag/?theme=basic" /></a>
-
-[![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=shw0426)](https://solved.ac/shw0426)
